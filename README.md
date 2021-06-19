@@ -20,7 +20,7 @@
 
 
 
-![1624084884444](G:\win10doc\保研简历\知网爬虫\知网万篇级论文下载爬虫.assets\1624084884444.png)
+![1624084884444](https://vincentvor.github.io/imgpages/%E7%9F%A5%E7%BD%91%E4%B8%87%E7%AF%87%E7%BA%A7%E8%AE%BA%E6%96%87%E4%B8%8B%E8%BD%BD%E7%88%AC%E8%99%AB.assets/1624084884444.png)
 
 ### 1.查询某一关键字下所有的题录信息。
 
